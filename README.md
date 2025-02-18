@@ -48,3 +48,6 @@ export default tseslint.config({
   },
 })
 ```
+
+# Run local db
+npx json-server db.json
